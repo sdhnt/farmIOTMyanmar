@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 62.36 68.03" xml:space="preserve" width="0.866111in" xmlns:xml="http://www.w3.org/XML/1998/namespace" height="0.944861in" gorn="0"  id="Layer_2" enable-background="new 0 0 62.36 68.03" version="1.1">
+    <desc >
+        <referenceFile >MAX471_PCB_v1.svg</referenceFile>
+    </desc>
+    <metadata >
+        <sfw >
+            <slices />
+            <sliceSourceBounds x="-0.5" y="-68.53" width="63.36" bottomLeftOrigin="true" height="69.03" />
+        </sfw>
+    </metadata>
+    <rect stroke-width="1" stroke="#FFFFFF" stroke-miterlimit="10" width="62.36" height="68.03" gorn="0.2"  id="silkscreen" fill="none"/>
+    <g gorn="0.3"  id="copper1">
+        <g gorn="0.3.0"  id="copper0">
+            <circle stroke-width="1" stroke="#F4BD19" stroke-miterlimit="10" gorn="0.3.0.0"  r="1.938" id="connector15pin" fill="none" cx="51.156" cy="44.398"/>
+            <circle stroke-width="1" stroke="#F4BD19" stroke-miterlimit="10" gorn="0.3.0.1"  r="1.938" id="connector14pin" fill="none" cx="51.156" cy="37.197"/>
+            <circle stroke-width="1" stroke="#F4BD19" stroke-miterlimit="10" gorn="0.3.0.2"  r="1.938" id="connector13pin" fill="none" cx="51.156" cy="29.998"/>
+            <circle stroke-width="1" stroke="#F4BD19" stroke-miterlimit="10" gorn="0.3.0.3"  r="1.938" id="connector12pin" fill="none" cx="51.156" cy="22.798"/>
+            <circle stroke-width="1" stroke="#F4BD19" stroke-miterlimit="10" gorn="0.3.0.4"  r="1.938" id="connector11pin" fill="none" cx="13.088" cy="58.534"/>
+            <circle stroke-width="1" stroke="#F4BD19" stroke-miterlimit="10" gorn="0.3.0.5"  r="1.938" id="connector10pin" fill="none" cx="13.087" cy="43.581"/>
+            <circle stroke-width="1" stroke="#F4BD19" stroke-miterlimit="10" gorn="0.3.0.6"  r="1.938" id="connector9pad" fill="none" cx="13.088" cy="24.534"/>
+            <circle stroke-width="1" stroke="#F4BD19" stroke-miterlimit="10" gorn="0.3.0.7"  r="1.938" id="connector8pad" fill="none" cx="13.087" cy="9.581"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="richardbruneau00_ab2223b12c6dc97302864712c913c6b0_8" modelIndex="5794" path="C:/Users/user/Documents/Fritzing/parts/user/richardbruneau00_ab2223b12c6dc97302864712c913c6b0_8.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="DHT11_847d8ef39597b070f569f588f3b01a09_1" modelIndex="5804" path="C:/Users/user/Documents/Fritzing/parts/user/DHT11_847d8ef39597b070f569f588f3b01a09_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="adafruit_58f499f4a5c2b683acbbe18a1f2a8e80_2" modelIndex="6161" path="C:/Users/user/Documents/Fritzing/parts/user/adafruit_58f499f4a5c2b683acbbe18a1f2a8e80_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="dc050912ce400d56deb4f0ffcf1a38c5" modelIndex="7427" path="C:/Users/user/Documents/Fritzing/parts/user/DS18B20_Probe_Cable__6924c6075e35b6f972ac3ba69575e724.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_f11befd235766bb4e0dcee612dc4341f_50" modelIndex="7710" path="C:/Users/user/Documents/Fritzing/parts/user/prefix0000_f11befd235766bb4e0dcee612dc4341f_50.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
